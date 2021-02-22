@@ -37,7 +37,7 @@
     "helmet": "^4.2.0",
     "passport": "^0.4.1",
     "passport-http-bearer": "^1.0.1",
-    "pg": "^7.18.2",
+    "pg": "^8.5.1",
     "pg-promise": "^10.5.8",
     "swagger-stats": "^0.95.17",
     "swagger-ui-dist": "^3.30.2"
