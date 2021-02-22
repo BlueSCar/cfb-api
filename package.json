@@ -33,7 +33,7 @@
     "express-brute": "^1.0.1",
     "express-brute-pg": "^2.0.0",
     "express-ws": "^4.0.0",
-    "gaussian": "^1.1.0",
+    "gaussian": "^1.2.0",
     "helmet": "^4.2.0",
     "passport": "^0.4.1",
     "passport-http-bearer": "^1.0.1",
